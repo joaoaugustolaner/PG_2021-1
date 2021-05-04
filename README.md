@@ -7,6 +7,8 @@ Para executar o codigo você executar deve ter o [Visual Studio](https://visuals
 Depois de abrir o projeto com o Visual Studio, você deve ter uma visão parecida com essa: ⬇️
 
 ![image](https://user-images.githubusercontent.com/48497628/116948808-dc698580-ac56-11eb-9459-ad62fc80a4d9.png)
+
+
 Esse é um projeto exemplo!
 
 Basta clicar com o botão direito na opção selecionada e, em seguida, clicar em `build` ou `compilar`. Como simboliza a imagem.
